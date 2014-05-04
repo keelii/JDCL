@@ -1,0 +1,18 @@
+{
+	"title": "JDCL",
+	"tagline": "...",
+	"clean_urls": false,
+	"float": false,
+	"docs_path": "docs",
+	"image": "",
+	"theme": "navy",
+	"template":"default",
+	"toggle_code": true,
+	"date_modified": true,
+	"repo": "keelii/jdcl",
+	"twitter": ["keelii"],
+	"google_analytics": "",
+	"links": {
+		"GitHub Repo": "https://github.com/keelii/jdcl"
+	}
+}
