@@ -1,4 +1,4 @@
-# Jlazyload 延迟加载
+# 延迟加载
 
 ## 零、插件简介
 1. 插件名称：Jlazyload

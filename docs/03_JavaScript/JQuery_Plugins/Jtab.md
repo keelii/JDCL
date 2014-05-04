@@ -1,3 +1,4 @@
+# tab切换
 ## 零、插件简介
 1. 插件名称：**Jtab**
 2. 依赖 jQuery 版本：`1.2.6`
@@ -32,7 +33,7 @@ Tab 头与内容一体
         <div class="mt">选项卡 C</div>
         <div data-widget="tab-content" class="mc">选项卡 C</div>
     </div>
-</div> 
+</div>
 
 ## 二、标题
 javascript 代码示例

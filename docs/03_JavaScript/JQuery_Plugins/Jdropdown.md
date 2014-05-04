@@ -1,5 +1,4 @@
-# Jdropdown
-
+# 下拉菜单
 ## 零、插件简介
 1. 插件名称：Jdropdown
 2. 依赖 jQuery 版本：`1.2.6`
@@ -27,4 +26,3 @@ $('dl').eq(0).Jdropdown();
 * event —— 触发事件
 * current —— 触发元素添加 class
 * delay —— 延时
-
